@@ -13,3 +13,42 @@
  *= require_tree .
  *= require_self
  */
+
+ body{
+  margin:20px;
+  padding: 20px;
+ }
+
+ h1 {
+  color: #3D3D3D;
+  margin-bottom: 20px;
+ }
+
+ h3 {
+  color: gray;
+  font-weight: light;
+  margin-bottom: 20px;
+ }
+
+ .coach {
+  border-left-width: thick;
+  border-left-style: solid;
+  border-left-color: lightgray;
+  padding-left: 12px;
+ }
+
+ .you {
+  border-left-width: thick;
+  border-left-style: solid;
+  border-left-color: lightgray;
+  padding-left: 12px;
+ }
+
+ .signature{
+  color: lightgray;
+  font-style: italic;
+ }
+
+ .type{
+  font-style: bold;
+ }
